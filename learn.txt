@@ -8,4 +8,7 @@ doing the commit .
 
 I am very happy .
 
-how to make change in Git .
+how to make change in Git.
+
+
+I am learning Git. 
