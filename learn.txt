@@ -3,4 +3,9 @@ How to learn git hub .
 
 I am having trouble in git commit . Why I am not 
 
-doing the commit . 
+doing the commit .
+
+
+I am very happy .
+
+how to make change in Git .
