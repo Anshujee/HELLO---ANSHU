@@ -1,5 +1,11 @@
+
 Hi All ,
 
 I want to learn Git .
 
 But I didn't understand the concept of branching .
+
+
+Git chekout -- to switch from main branch to test branch .
+
+
