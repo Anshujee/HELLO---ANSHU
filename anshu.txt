@@ -5,6 +5,10 @@ How are You and what is the problem.
 
 why i can't push to main branch. 
 
+how to push in test branch
+
+
+
 
 
 
