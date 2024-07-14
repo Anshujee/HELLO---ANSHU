@@ -1,11 +1,10 @@
 
 Hi All ,
 
-I want to learn Git .
+How are You and what is the problem. 
 
-But I didn't understand the concept of branching .
+why i can't push to main branch. 
 
 
-Git chekout -- to switch from main branch to test branch .
 
 
