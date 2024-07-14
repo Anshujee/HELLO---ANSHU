@@ -1,10 +1,4 @@
-Hi All ,
-
-I want to learn Git .
-
-But I didn't understand the concept of branching.
-
-How to create Branch in Github. 
+Anshu Jee 
 
 
-
+Hello All 

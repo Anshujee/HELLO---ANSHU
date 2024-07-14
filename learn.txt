@@ -10,5 +10,20 @@ I am very happy .
 
 how to make change in Git.
 
+hello !
+
+I am good .
+
+I am very happy. 
+
+
 
 I am learning Git. 
+
+Want to commit new chnage . 
+
+but it is not working. 
+
+Let me try once again. 
+
+
